@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Farshchi
 
-<!--
-**alfawebdev/alfawebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Web Developer** specializing in **Django & Python**  
+💡 Passionate about creating **scalable**, **secure**, and **user-friendly** web applications.  
+🎨 I also enjoy working with **React**, **Next.js**, **Bootstrap**, and modern front-end tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Backend:** Django, Python, REST API  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React  
+- **Database:** PostgreSQL, SQLite  
+- **Tools:** Git, GitHub, VSCode, Docker (learning)
+
+---
+
+### 📫 Connect with me
+- 📧 Email: [your_email@example.com](mailto:your_email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 🌐 Portfolio: *coming soon...*
+
+---
+
+⭐️ *“Code is like art — every line should have a purpose.”*
