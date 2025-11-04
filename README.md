@@ -15,10 +15,11 @@
 ---
 
 ### 📫 Connect with me
-- 📧 Email: [your_email@example.com](mailto:your_email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: [alfaengs@gmail.com](mailto:alfaengs@gmail.com)
+- 💼 LinkedIn: [ali-farshchi](https://www.linkedin.com/in/ali-farshchi-960910b7)
+- GitHub: [github.com/alfawebdev](https://github.com/alfawebdev) 
 - 🌐 Portfolio: *coming soon...*
 
----
+
 
 ⭐️ *“Code is like art — every line should have a purpose.”*
