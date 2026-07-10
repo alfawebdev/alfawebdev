@@ -63,10 +63,9 @@ I'm a backend developer passionate about building clean, scalable web applicatio
 
 ## 📊 GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfawebdev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfawebdev&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfawebdev&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfawebdev&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 ## 🔥 GitHub Streak
