@@ -59,6 +59,20 @@ I'm a backend developer passionate about building clean, scalable web applicatio
 ⭐ Thanks for visiting my profile!
 
 
+---
+
+## 📊 GitHub Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfawebdev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfawebdev&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alfawebdev&theme=tokyonight)
+
 ### 📫 Connect with me
 - 📧 Email: [alfaengs@gmail.com](mailto:alfaengs@gmail.com)
 - 💼 LinkedIn: [ali-farshchi](https://www.linkedin.com/in/ali-farshchi-960910b7)
