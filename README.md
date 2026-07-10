@@ -61,12 +61,6 @@ I'm a backend developer passionate about building clean, scalable web applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfawebdev&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfawebdev&layout=compact&theme=tokyonight&cache_seconds=1800)
----
 
 ## 🔥 GitHub Streak
 
